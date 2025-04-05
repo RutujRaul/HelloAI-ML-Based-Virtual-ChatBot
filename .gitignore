@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+.env
+__pycache__/
+*.pyc
+
+# system
+.DS_Store
+Thumbs.db
+
+# build
+build/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+
+# python virtual env
+venv/
