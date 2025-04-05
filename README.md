@@ -28,8 +28,7 @@ HelloAI is a local, ML-based chatbot built with Flask (Python), MongoDB, and Rea
 
 ### 1. Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/helloai-chatbot.git
-cd helloai-chatbot
+git clone https://github.com/RutujRaul/HelloAI-ML-Based-Virtual-ChatBot.git
 ---
 ### 2. Backend Setup
 cd backend
